@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm 20 years old, '\n'
+I'm 20 years old,
 studying at school 21,
 working in sber backend java developer
 
