@@ -1,8 +1,6 @@
 ### Hi there 👋
 I'm 20 years old,
-studying at school 21,
-working in Sber backend java developer
-
+studying at school 21
 
 [![paminna's 42 stats](https://badge42.herokuapp.com/api/stats/paminna?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 <!--
