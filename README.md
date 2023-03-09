@@ -8,7 +8,7 @@ Student of Kazan Federal University and school 21(ecole 42)
 
 Work in Sber.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastsign&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paminna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lastsign&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
